@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omar\\source\\ejemplos\\_libros\\efcore6\\EFCore_DBLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12134352-51DF-2718-DB24-ABEC8A1DEEE9}|EFCore_DBLibrary\\EFCore_DBLibrary.csproj|c:\\users\\omar\\source\\ejemplos\\_libros\\efcore6\\efcore_dblibrary\\efcore_dblibrary\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12134352-51DF-2718-DB24-ABEC8A1DEEE9}|EFCore_DBLibrary\\EFCore_DBLibrary.csproj|solutionrelative:efcore_dblibrary\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\source\\ejemplos\\_libros\\efcore6\\EFCore_DBLibrary\\EFCore_DBLibrary\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EFCore_DBLibrary\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\omar\\source\\ejemplos\\_libros\\efcore6\\EFCore_DBLibrary\\EFCore_DBLibrary\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EFCore_DBLibrary\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T14:51:01.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

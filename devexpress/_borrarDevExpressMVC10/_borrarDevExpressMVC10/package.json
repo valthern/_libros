@@ -1,0 +1,21 @@
+{
+  "name": "_borrardevexpressmvc10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "devextreme-aspnet-data": "^5.1.0",
+    "devextreme-dist": "26.1"
+  },
+  "allowScripts": {
+    "core-js@3.50.0": true,
+    "inferno@8.2.3": true
+  }
+}

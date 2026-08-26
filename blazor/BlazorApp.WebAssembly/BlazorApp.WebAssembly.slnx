@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BlazorApp.WebAssembly/BlazorApp.WebAssembly.csproj" />
+  </Folder>
+</Solution>
