@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BlazorApp.Logging.Client/BlazorApp.Logging.Client.csproj" />
+    <Project Path="src/BlazorApp.Logging/BlazorApp.Logging.csproj" />
+  </Folder>
+</Solution>
