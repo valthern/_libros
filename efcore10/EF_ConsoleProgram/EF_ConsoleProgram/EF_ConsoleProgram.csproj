@@ -19,4 +19,10 @@
     <ProjectReference Include="..\EF_DBLibrary\EF_DBLibrary.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Include="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>
