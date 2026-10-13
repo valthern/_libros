@@ -1,6 +1,8 @@
 @echo off
-set myMood=glommy
+set myMood=glommy& rem sombrío
 echo My mood is %myMood%
-set myMood=cheerful
+set myMood=cheerful& rem alegre
 echo Now My mood is %myMood%
+set myMood=reflective& rem reflexivo
+echo ...And now My mood is %myMood%
 pause
