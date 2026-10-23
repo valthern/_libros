@@ -20,7 +20,7 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         BuildConfiguration();
-        var connectionString = configuration.GetConnectionString("csOptiPlex3050");
+        var connectionString = configuration.GetConnectionString("csCsiTiDev");
         Console.WriteLine($"Connection String: {connectionString}");
         var optionsBuilder = new DbContextOptionsBuilder<EFDbContext>();
         optionsBuilder.UseSqlServer(connectionString);
