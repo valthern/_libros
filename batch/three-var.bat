@@ -13,5 +13,5 @@ echo(
 
 set X = Hello
 > con echo The value of X-space is "%X %".
-pause
 
+pause
